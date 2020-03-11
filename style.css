@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text&display=swap');
+
+*{
+    margin: 0px;
+
+}
+body{
+    font-family: 'Crimson Text';
+    background-color: #0A4E5C;
+    margin:0px 100px 0px 100px;
+   
+}
+#head{
+    border: 1px solid rgb(0, 0, 0);
+    padding: 10px;
+    background-color: rgb(179, 226, 202);
+    border-radius: 10px;
+    text-align: center;
+}
+/**#head img{
+    padding-left: 10px;
+}**/
+body #body{
+    margin: 100px 10px 100px 10px;
+ 
+}
+.card{
+    border: 1px solid #8A9C90; 
+    padding: 10px;
+    background-color: #ABD1D9;
+    border-radius: 10px;
+    height: 200px;
+    margin: 0px 100px 100px 100px;
+}
+.card h3{
+    padding: 10px 10px;
+    text-align: center;
+    font-size: 26px;
+}
+.card img{
+    float: left;
+    padding-right: 20px;
+}
+.card p{
+    font-size: 20px;
+    padding: 0px 10px 0px 10px;
+}
